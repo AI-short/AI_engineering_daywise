@@ -1,6 +1,9 @@
 Phase wise, Day wise, Learning AI Engineering
 
-Day 1: Introduction to Python basics \n
+Day 1: Introduction to Python basics 
+
 Day 2: Variables, Data Types, and Input/Output
+
 Day 3: Python Strings and String Manipulation
+
 Day 4: 
