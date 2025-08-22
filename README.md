@@ -8,4 +8,6 @@ Day 2: Variables, Data Types, and Input/Output
 
 Day 3: Python Strings and String Manipulation
 
-Day 4: 
+Day 4: Operators in Python
+
+Day 5:
